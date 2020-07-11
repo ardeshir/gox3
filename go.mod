@@ -1,4 +1,4 @@
-module github.com/ardeshir/go-go-go
+module github.com/ardeshir/gox3
 
 go 1.12
 
